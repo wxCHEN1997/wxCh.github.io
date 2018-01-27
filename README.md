@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Life
 
-You can use the [editor on GitHub](https://github.com/wxCHEN1997/wxCh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm weixuanChen, born in 1997. Now study in Tsinghua University, Department of Construction Management.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My Interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have learned aerobics for 12 years and now is the First-class National Athlete.
+
 
 ```markdown
 Syntax highlighted code block
